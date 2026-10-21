@@ -1,0 +1,12 @@
+# Dataset (download separately, see README)
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+
+# Model weights and logs
+*.pth
+results_run.log
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
